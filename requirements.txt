@@ -1,0 +1,10 @@
+awkward
+uproot
+pandas
+numpy
+matplotlib
+"dask[complete]"
+pyarrow
+polars
+scipy
+graphviz
