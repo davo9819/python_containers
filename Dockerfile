@@ -6,6 +6,7 @@ WORKDIR /opt
 
 COPY requirements.txt requirements.txt
 
-RUN python3.11 -m pip install -r requirements.txt
+RUN python -m ensurepip --upgrade
+RUN python -m pip install -r requirements.txt
 
 COPY . .
