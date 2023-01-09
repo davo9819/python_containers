@@ -3,7 +3,7 @@ uproot
 pandas
 numpy
 matplotlib
-"dask[complete]"
+dask[complete]
 pyarrow
 polars
 scipy
