@@ -8,3 +8,4 @@ pyarrow
 polars
 scipy
 graphviz
+ipykernel
