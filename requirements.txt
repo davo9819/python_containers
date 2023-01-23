@@ -9,3 +9,17 @@ polars
 scipy
 graphviz
 ipykernel
+numba
+particle
+vector
+mplhep
+numexpr
+hist
+histoprint
+mpi4py
+psutil
+typing_extensions
+dask-histogram
+dask-awkward
+awkward-pandas==2022.12a1
+tqdm
