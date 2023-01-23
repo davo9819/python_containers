@@ -9,7 +9,7 @@ polars
 scipy
 graphviz
 ipykernel
-numba
+#numba
 particle
 vector
 mplhep
